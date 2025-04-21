@@ -1,7 +1,7 @@
 import requests
 
-bot_token = "your_bot_token"
-chat_id = "your_chat_id"
+bot_token = "7716430771:AAHqCZNoDACm3qlaue4G_hTJkyrxDRV9uxo"
+chat_id = "6487259893"
 message = "🔔 Test message from MEXC bot!"
 
 url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
